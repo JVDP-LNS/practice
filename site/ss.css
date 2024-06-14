@@ -1,0 +1,12 @@
+p {
+    font-size: 2em;
+    color: white;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 5px;
+    background-color: #151527;
+}
