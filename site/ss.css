@@ -1,12 +1,10 @@
-p {
-    font-size: 2em;
-    color: white;
-    box-sizing: border-box;
-    margin: 0px;
+* {
+    color: rgb(157, 255, 0);
+    width: 100px;
+
 }
 
 body {
-    margin: 0px;
-    padding: 5px;
-    background-color: #151527;
+    background-color: rgb(20, 20, 20);
+    padding: 1%;
 }
