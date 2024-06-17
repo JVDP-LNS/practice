@@ -4,10 +4,12 @@
 }
 h1 {
     text-align: center;
+    font-size: 1.75em;
 }
 h3 {
     float: right;
     text-align: center;
+    font-size: 1.25em;
     width: 150px;
     padding: 5px;
     margin: -10px;
@@ -26,7 +28,7 @@ h3 {
 }
 p {
     clear: both;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 section {
     float: left;
